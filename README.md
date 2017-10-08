@@ -11,7 +11,7 @@ Please cite as: Ayala-Rivera, V., Portillo-Dominguez, A., Murphy, L. & Thorpe, C
 ### 2. A Systematic Comparison and Evaluation of k-Anonymization Algorithms for Practitioners  (http://www.tdp.cat/issues11/tdp.a169a14.pdf)
 Please cite as: Ayala-Rivera, V., McDonagh, P., Cerqueus, T. & Murphy, L. "A Systematic Comparison and Evaluation of k-Anonymization Algorithms for Practitioners." Transactions on Data Privacy Journal, 2014; Volume 7 Issue 3.
 
-### 3. Synthetic Data Generation using Benerator Tool (https://csiweb.ucd.ie/files/UCD-CSI-2013-03.pdf)
+### 3. Synthetic Data Generation using Benerator Tool (https://arxiv.org/pdf/1311.3312.pdf)
 Please cite as: Ayala-Rivera, V., McDonagh, P., Cerqueus, T. & Murphy, L. "Synthetic Data Generation using Benerator Tool." Technical Report UCD-CSI-2013-03, University College Dublin, November 2013.
 
 Datasets
