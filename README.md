@@ -35,5 +35,5 @@ The generated datasets correspond to microdata containing records with social, e
 
 COCOA: A Synthetic Data Generator for Testing Anonymization Techniques (https://link.springer.com/chapter/10.1007/978-3-319-45381-1_13)
 
-Synthetic Data Generation using Benerator Tool (https://csiweb.ucd.ie/files/UCD-CSI-2013-03.pdf)
+Synthetic Data Generation using Benerator Tool (https://arxiv.org/pdf/1311.3312.pdf)
 
