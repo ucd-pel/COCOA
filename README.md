@@ -1,7 +1,7 @@
 Performance Engineering Lab, UCD
 ==========================================================
 
-This repository contains a set of synthetic datasets that were generated with COCOA framework and which aim to broaden the scenarios for testing anonymization algorithms. They are used in the research activities of the **Performance Engineering Laboratory** at the [School of Computer Science (University College Dublin)](http://www.csi.ucd.ie).
+This repository contains a set of synthetic datasets that were generated with COCOA framework and which aim to broaden the scenarios for testing anonymization algorithms. They are used in the research activities of the **Performance Engineering Laboratory** at the [School of Computer Science (University College Dublin)](https://www.cs.ucd.ie/).
 
 Related Papers
 ----------------------
